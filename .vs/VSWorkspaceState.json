@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Metro",
+    "\\MetroUI"
   ],
-  "SelectedNode": "\\Metro.sln",
+  "SelectedNode": "\\MetroUI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
